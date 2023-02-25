@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "nombreProduct": "Pc - 1/Asus - serie",
+        "precioArs": 200000,
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+        "stock": 20
+    },
+
+    {
+        "id": 2,
+        "nombreProduct": "Pc - 2/Intel - serie",
+        "precioArs": 250000,
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+        "stock": 10
+    },
+
+    {
+        "id": 3,
+        "nombreProduct": "Pc - 3/Amd - serie",
+        "precioArs": 150000,
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+        "stock": 40
+    },
+
+    {
+        "id": 4,
+        "nombreProduct": "Pc - 4/Razer - serie",
+        "precioArs": 300000,
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+        "stock": 5
+    },
+
+    {
+        "id": 5,
+        "nombreProduct": "Pc - 1/Estandar - serie",
+        "precioArs": 80000,
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+        "stock": 60
+    }
+]
